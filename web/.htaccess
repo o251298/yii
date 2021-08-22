@@ -1,5 +1,4 @@
 RewriteEngine On
-RewriteBase /var/www/html/web
 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
